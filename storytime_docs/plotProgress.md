@@ -1,122 +1,229 @@
 # Plot Progress
 *Generated from initial plot implementation*
 
+## Story Structure Overview
+
 ## Completed Story Beats
-*Story at beginning - no completed beats yet*
+The story follows a complete arc through several major phases:
 
-## Upcoming Plot Points
+## Plot Points By Phase
+# Plot Progress
+*Generated from initial plot implementation*
 
-### Part I: The Relic Arrives (Chapters 1-7)
-1. Mysterious package triggers Elinora to call Rowan
-   * Reflection on their childhood friendship
-   * Blue crayon memory establishes their bond
-   * History of mutual support through life's challenges
-2. First contact with damaged pendant
-   * Covered in unreadable symbols
-   * Missing central crystal creating instability
-   * Recognition of similarity to grandmother's brooch
-3. Journey to Aunt Margaret's
-   * Discovery of grandmother's jewelry collection
-   * Family history through diary entries
-   * Great-aunt Catherine's cryptic notes about the set
-4. The Crystal Reunion
-   * Dramatic moment when pieces unite
-   * Violent light flickering
-   * Sharp temperature drop
-   * Resonant connecting sound
-   * Shared moment of wonder
-5. First Dreams and Visions
-   * Symbols becoming readable after reunion
-   * Visions of historical events (Black Death, Great Fire)
-   * Understanding beginning to unfold
-6. Initial magical manifestations
-   * First true magical experience after pendant completion
-   * Rowan's steady presence helping Elinora cope
-   * Both processing these new developments
-7. Early encounters with magical limitations
-   * Discovery of natural affinity for physical catalysts
-   * Research revealing European magical sites
-   * Rowan finding historical patterns in architecture
 
-### Part II: European Journey (Chapters 8-15)
-1. Meeting Marcus at Notre Dame's secret passages
-2. Tracing magical bloodline strength through generations
-3. Finding Gregor in Alpine monastery stronghold
-4. Learning about power feedback protection techniques
-5. Training with physical catalysts and energy management
-6. First encounter with Chief Hunter Isabella Ravencroft
-   * Rowan's military instincts resurface
-   * Elinora notices his internal struggle
-7. Discovery of Grand Master Blackthorn's true agenda
-8. Witnessing Drake's military modernization efforts
-9. Understanding Order's factional conflicts
-10. Almost-moment in monastery interrupted by crisis
-11. Discovery of hidden chamber in Hagia Sophia
-12. Escape through medieval underground network
-    * Rowan's training proving crucial
-    * Tension between his desire for peace and need to protect
+### Phase I: Foundation Building (Chapters 1-3)
+1. Relationship Establishment
+   * Regular coffee meetup routine
+   * Deep friendship history revealed
+   * Natural trust and reliance
+   * Academic life context
+   * Comfortable dynamic shown
 
-### Part III: Power and Pursuit (Chapters 16-25)
-1. Castle infiltration using historical secret passages
-2. Finding chamber dating to Constantinople siege
-3. Discovering scrolls about the Power Balance Law
-4. Learning the Last Wizard's failsafe system design
-5. Understanding pendant's role in preserving knowledge
-6. Order's internal power struggle reaching crisis point
-7. Mastering energy management during major conflict
-8. Navigating Chaos Effect in public confrontation
-9. Climactic battle where Rowan faces mortal danger
-   * Elinora's emotional realization
-   * Memories of their shared history
-   * Fear of losing him forever
-   * Unprecedented magical surge
-10. Final resolution
-    * Their relationship transformed
-    * Balance between magic and personal connection
-    * New understanding between them
+2. Mystery Introduction
+   * Pendant arrival
+   * First subtle hints
+   * Family connection discovered
+   * Historical elements emerging
+   * Anticipation building
 
-## Subplot Tracking
+3. Family Connection
+   * Visit to Aunt Margaret
+   * Family history exploration
+   * Brooch discovery
+   * Historical patterns emerging
+   * Tension building toward union
+### Phase II: Magical Awakening (Chapters 4-7)
+1. Power Emergence
+   * Pendant completion
+   * First magical manifestation
+   * Initial abilities appearing
+   * Surveillance beginning
+   * Relationship deepening
 
-### Character Development Subplot
-- Elinora's journey from historical researcher to magical heir
-- Understanding family's role in major historical events
-- Connecting academic knowledge with magical reality
-- Learning to blend ancient traditions with modern life
+2. Control Development
+   * Magical accidents increasing
+   * Protection needs growing
+   * Relationship support strengthening
+   * Order presence felt
+   * Understanding growing
 
-### Relationship Subplot
-- Evolution from childhood friendship to deeper connection
-- Blue crayon memory threading through story
-- Rowan's military background affecting their dynamic
-- His struggle between peaceful life and protective instincts
-- Their growing closeness since his return
-- Almost-moments and interrupted possibilities
-- Shared experiences strengthening their bond
-- Climactic emotional revelation powering magical surge
-- Final acceptance of their feelings amid magical resolution
+3. Historical Connection
+   * Dream visions starting
+   * Family legacy understanding
+   * Order history revealed
+   * Team dynamic forming
+   * Stakes raising
+### Phase III: Team Formation (Chapters 8-12)
+1. Alliance Building
+   * Marcus joining
+   * Knowledge expanding
+   * Team dynamic forming
+   * Journey beginning
+   * Trust developing
 
-### Family History Subplot
-- Grandmother's unknowing protection of magical artifacts
-- Great-aunt Catherine's cryptic warnings
-- Family tradition of preserving heirlooms
-- Aunt Margaret's role in keeping family connected
-- Discovery of deeper family connection to magic
-- Understanding ancestors' unwitting roles
+2. Training Period
+   * Gregor's mentorship
+   * Power understanding
+   * Relationship growing
+   * Order pursuing
+   * Skills developing
 
-### Magical Training Subplot
-- Understanding bloodline inheritance and strength factors
-- Learning to use physical catalysts effectively
-- Mastering Power Balance Law limitations
-- Managing Chaos Effect in modern settings
-- Developing energy conservation techniques
-- Practicing power feedback protection
-- Understanding magical signature suppression
-- Connecting historical events to power manifestations
+3. Crisis Point
+   * Order closing in
+   * Power growing
+   * Team strengthening
+   * Love deepening
+   * Sacrifice looming
+### Phase IV: Loss and Growth (Chapters 13-15)
+1. Sacrifice
+   * Gregor's loss
+   * Team tested
+   * Power growing
+   * Love strengthening
+   * Purpose clarifying
 
-### Mystery Subplot
-- Unraveling family's role in historical events
-- Discovering Order's evolution through centuries
-- Connecting historical sites to magical network
-- Understanding how magic shaped history
+2. Recovery
+   * Grief processing
+   * Power mastering
+   * Team uniting
+   * Love deepening
+   * Direction finding
+
+3. Discovery
+   * Ancient knowledge found
+   * Order weakness revealed
+   * Team solidifying
+   * Plan forming
+   * Hope growing
+### Phase V: Rising Action (Chapters 16-20)
+1. Implementation
+   * Knowledge applying
+   * Power mastering
+   * Team coordinating
+   * Love growing
+   * Conflict approaching
+
+2. Alliance Formation
+   * Order dividing
+   * Teams choosing
+   * Trust testing
+   * Power demonstrating
+   * Battle preparing
+
+3. Final Preparation
+   * Forces gathering
+   * Plans finalizing
+   * Love confirming
+   * Sacrifice accepting
+   * Tension peaking
+
+### Phase VI: Climactic Sequence (Chapters 21-23)
+1. Breaking Point
+   * Team separated
+   * Hope threatened
+   * Love tested
+   * Power challenged
+   * Darkness deepest
+
+2. Reunion
+   * Team reforming
+   * Hope returning
+   * Love strengthening
+   * Power uniting
+   * Victory approaching
+
+3. Final Battle
+   * Balance restoring
+   * Love triumphing
+   * Sacrifice accepting
+   * Peace achieving
+   * Future securing
+
+### Phase VII: Resolution (Chapters 24-25)
+1. Aftermath
+   * Balance restored
+   * Love fulfilled
+   * Peace achieved
+   * Future planning
+   * Hope returning
+
+2. New Beginning
+   * World transformed
+   * Love flourishing
+   * Peace maintaining
+   * Adventure promising
+   * Hope eternal
+
+## Major Character Arcs
+
+### Elinora's Journey
+- From skeptical historian to magical heir
+- From independent researcher to team leader
+- From friend to partner with Rowan
+- From academic to practical knowledge
+- From normal life to magical destiny
+
+### Rowan's Evolution
+- From protective friend to equal partner
+- From military past to magical future
+- From peace-seeking to purpose-finding
+- From guarding to sharing
+- From friendship to love
+
+### Marcus's Development
+- From theoretical to practical knowledge
+- From outsider to team member
+- From researcher to participant
+- From observer to contributor
+- From individual to team
+
+## Major Relationship Developments
+
+### Elinora and Rowan
+- Deep friendship foundation
+- Growing magical partnership
+- Increasing emotional connection
+- Shared danger bringing clarity
+- Love triumphant through sacrifice
+
+### Team Dynamic
+- Initial suspicion to trust
+- Knowledge sharing and growth
+- Unified purpose finding
+- Strength through diversity
+- Perfect balance achieving
+
+## Power Development Progression
+
+### Magical Growth
+- Initial awakening
+- Control learning
+- Power understanding
+- Balance mastering
+- Harmony achieving
+
+### Knowledge Evolution
+- Historical understanding
+- Practical application
+- Power mechanics
+- Balance restoration
+- Future teaching
+
+## Thematic Resolution
+
+### Major Themes
+- Balance and harmony achieved
+- Love and sacrifice rewarded
+- Past and future reconciled
+- Power and responsibility balanced
+- Hope and peace maintained
+
+### Future Implications
+- New magical system established
+- Balanced power sharing
+- Love flourishing
+- Peace maintaining
+- Adventure promising
 
 ## Narrative Threads Status
 
