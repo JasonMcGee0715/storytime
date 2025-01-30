@@ -1,5 +1,5 @@
 # Story Patterns
-*Generated from initial plot implementation*
+*IMPORTANT NOTE: This document must always be maintained in its complete form. No content should ever be omitted or referenced as "unchanged." All updates must include the entire document to ensure no information is lost.*
 
 ## Narrative Structure
 
@@ -90,6 +90,59 @@ Each chapter contains:
    - Future hinting
    - Hook creating
    - Momentum maintaining
+
+### Technology Disruption Pattern
+Each failure sequence follows:
+1. Initial Signs:
+   - Subtle glitches
+   - Intermittent failures
+   - Growing uncertainty
+   - Public confusion
+   - Expert bafflement
+
+2. Escalation:
+   - System breakdowns
+   - Cascading failures
+   - Widespread impact
+   - Emergency responses
+   - Social reaction
+
+3. Crisis Point:
+   - Complete system failure
+   - Public panic
+   - Infrastructure collapse
+   - Emergency situations
+   - Chaos spreading
+
+4. Resolution:
+   - Magic stabilization
+   - System recovery
+   - Order restoration
+   - Public calming
+   - Normal resumption
+
+### Scroll Discovery Pattern
+Each scroll location reveals:
+1. Historical Context:
+   - Past events
+   - Magic's role
+   - Technology connection
+   - Hidden influence
+   - Future implications
+
+2. Technical Knowledge:
+   - Magical mechanics
+   - Field manipulation
+   - System integration
+   - Protection methods
+   - Balance requirements
+
+3. Modern Application:
+   - Current relevance
+   - Technology dependence
+   - Adaptation needs
+   - Solution possibilities
+   - Future planning
 
 ### Relationship Development Pattern
 Throughout story:
@@ -228,6 +281,20 @@ Throughout narrative:
    - Resolution achieving
    - Future suggesting
 
+4. Technology Elements:
+   - System failure progression
+   - Infrastructure breakdown
+   - Electronic malfunction
+   - Communication disruption
+   - Public response
+
+5. Integration Elements:
+   - Magic-technology interaction
+   - Field stability effects
+   - System interdependence
+   - Balance manifestation
+   - Hidden influence revelation
+
 ## Narrative Structure Decisions
 
 ### Overall Architecture
@@ -286,6 +353,50 @@ Throughout narrative:
   * Chaos Effect probability
   * Containment options
   * Personal stakes
+
+### Technology Failure Scenes
+- Initial Manifestation:
+  * Subtle electronic glitches
+  * GPS inconsistencies
+  * Communication static
+  * Power fluctuations
+  * System unreliability
+
+- Escalation Elements:
+  * Widespread failures
+  * Public reaction
+  * Emergency response
+  * Infrastructure stress
+  * Chaos spread
+
+- Resolution Components:
+  * Magic stabilization
+  * System recovery
+  * Order restoration
+  * Balance return
+  * Normal resumption
+
+### Scroll Discovery Scenes
+- Location Atmosphere:
+  * Historical weight
+  * Magical resonance
+  * Hidden knowledge
+  * Modern intrusion
+  * Time connection
+
+- Knowledge Revelation:
+  * Historical context
+  * Technical understanding
+  * Modern implications
+  * Future guidance
+  * Balance importance
+
+- Integration Moment:
+  * Past-present connection
+  * Magic-technology link
+  * Understanding dawn
+  * Team realization
+  * Stakes clarification
 
 ### Relationship Scene Components
 - Memory Integration:
@@ -393,4 +504,23 @@ Throughout narrative:
   * Professional collaboration style
 
 ### Order of Thorn Voices
-[Previous Order of Thorn Voices section remains unchanged]
+- Blackthorn: Aristocratic authority
+  * Formal speech patterns
+  * Command presence
+  * Hidden agenda hints
+  * Power obsession undertones
+  * False benevolence mask
+
+- Drake: Military precision
+  * Strategic terminology
+  * Tactical assessment
+  * Controlled aggression
+  * Hidden ambition
+  * Loyalty facade
+
+- Ravencroft: Professional detachment
+  * Technical expertise
+  * Operational focus
+  * Growing doubt
+  * Ethical struggle
+  * Truth seeking

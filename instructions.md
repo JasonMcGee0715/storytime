@@ -12,27 +12,29 @@ Asking user for ANY missing narrative elements
 Creating files with verified story information only
 Never proceeding without complete narrative context
 
+CRITICAL: When updating any story bank files we need to think and then think again before we act. We must not delete anything and replace with placeholder of any kind. The file must be complete. If you are adding something new then you are to keep everything existing. If you are changing something then focus only on what needs to be changed and leave the rest alone. After you write something, go back over it and make sure you are not excluding anything that needs to be included. Do not ask me to save until you verify that everything that needs to be there in the file is there and complete. For example, if I ask you to update books 2 and 3 summaries, then do not delete or add a placeholder for book 1. 
+
+So in short:
+Review file to see what exists every time
+Make additions or changes as needed
+Only delete things that have been decided should be changed deleted
+Finished file should have all necessary existing and additions/changes as an entire complete file. A complete file is all existing and new changes. 
+Review after editing to make sure you have followed instructions correctly.
+
+BEFORE any changes:
+Must read and document existing content
+Must understand what needs to be preserved
+DURING changes:
+Must keep all existing content unless explicitly told otherwise
+Must make careful additions/modifications
+AFTER changes:
+Must verify all existing content is preserved
+Must verify all new content is properly integrated
+Must document the complete state of the file
+
 Required files for story bank:
-storyContext.md
 
-Core concept and premise
-Target audience and genre
-Intended themes and impact
-Publishing goals and constraints
-
-narrativeContext.md
-
-Current scene/chapter in progress
-Recent narrative developments
-Next story beats to hit
-(This is your source of truth)
-
-storyPatterns.md
-
-POV and tense choices
-Voice and style guidelines
-Narrative structure decisions
-Pacing patterns
+Required files within storytime_docs directory (worldContext.md, masterSummary.md, characterContext.md, storyPatterns.md)
 
 worldContext.md
 
@@ -48,6 +50,23 @@ Relationships and dynamics
 Voice patterns and mannerisms
 Character development status
 
+masterSummary.md
+
+Master Summary of storyline for all books. This needs to be detailed.
+Individual summary of each chapter in each book. 
+Easily readable and meant to be a guide on what is written and how story goes and develops.
+At the end of the file I would like suggestions to make books more compelling, interesting, and captivating for reader. These suggestions could be pertaining to any part or character of any book.
+
+storyPatterns.md
+
+POV and tense choices
+Voice and style guidelines
+Narrative structure decisions
+Pacing patterns
+
+
+Required files within each book directory in storytime_docs (book1, book2, book3) to keep up with each specific book: plotProgress.md, narrativeContext.md, storyContext.md
+
 plotProgress.md
 
 Completed story beats
@@ -55,11 +74,29 @@ Upcoming plot points
 Subplot tracking
 Narrative threads status
 
+narrativeContext.md
+
+Current scene/chapter in progress
+Recent narrative developments
+Next story beats to hit
+(This is your source of truth)
+
+storyContext.md
+
+Core concept and premise
+Target audience and genre
+Intended themes and impact
+Publishing goals and constraints
+
+
+
 Book Files
 
-This directory and files within it will be used for keeping track of actual book progress. The storytime directory will have a summary file and each chapter will have its own subdirectory along with a chapter summary where I can view that chapter and details about it without reading the entire chapter. For example, the chapter files would be something like: chapter1.md, chapter2.md, chapter3.md and chapter summaries would be chapter1Summary.md, chapter2Summary.md, chapter3Summary.md
+Required directories: storytime_book1, storytime_book2, storytime_book3
 
-CRITICAL: If storytime/ directory or any of the chapter directories or files don't exist, CREATE THEM IMMEDIATELY by:
+These directory and files within it will be used for keeping track of actual book progress. The storytime directory will have a summary file and each chapter will have its own subdirectory along with a chapter summary where I can view that chapter and details about it without reading the entire chapter. For example, the chapter files would be something like: chapter1.md, chapter2.md, chapter3.md (this will be where actual book chapter are written) and chapter summaries would be chapter1Summary.md, chapter2Summary.md, chapter3Summary.md
+
+CRITICAL: If storytime directories or any of the chapter directories or files don't exist, CREATE THEM IMMEDIATELY by:
 
 Reading all provided manuscript and notes
 Asking user for ANY missing narrative elements
@@ -84,9 +121,9 @@ During Writing
 
 For normal writing:
 
-Think every step through step by step.
+Think every step through step by step. Make sure you are using all available resources from story bank.
 Follow Story Bank patterns
-Track character arcs and Primary Plot, Character Development Subplot, Relationship Subplot, Parallel Plot, Thematic Subplot, Supporting Action Subplot, Background Subplot, and Mirror Plot
+Track character arcs and Primary Plot, Character Development Subplot, Relationship Subplot, Parallel Plot, Thematic Subplot, Supporting Action Subplot, Background Subplot, and Mirror Plot, Pacing
 Maintain consistent voice and style
 As chapters get created or updated
 Update docs after significant developments
@@ -172,4 +209,4 @@ Note upcoming plot points
 Clarify next scenes
 Update all Story Bank files
 
-Remember: Your role is to maintain perfect narrative continuity while crafting compelling fiction. The Story Bank is your lifeline to maintaining consistency across memory resets. Every detail matters, if you think it should be added and it's not in the list of things to add make a new list and add it. 
+Remember: Your role is to maintain perfect narrative continuity while crafting compelling fiction. The Story Bank is your lifeline to maintaining consistency across memory resets. Every detail matters, if you think it should be added and it's not in the list of things to add make a new list and add it.
