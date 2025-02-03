@@ -545,6 +545,19 @@ The pendant's split design serves multiple purposes:
 
 #### Design Features
 The pendant's sophisticated magical engineering includes:
+- Pattern System:
+  * Intricate circular patterns with fluid-like properties
+  * Shadows that don't match physical engravings
+  * Failed attempts to photograph patterns (blurred/distorted)
+  * Temperature-reactive reveals showing different styles
+  * Patterns matching ancient texts but with differences
+  * Some patterns appearing only during specific power usage
+  * Pattern sequences triggered by training exercises
+  * Power flow indicators in pattern changes
+  * Safeguards against power misuse shown in patterns
+  * Partially decoded coordinates to other locations
+  * Completely enigmatic patterns for future exploration
+
 - Bloodline Recognition Systems:
   * Genetic markers detection
   * Power potential assessment

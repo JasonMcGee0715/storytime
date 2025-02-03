@@ -266,5 +266,80 @@
   * Restoration desire
   * Future hope
 
+### Gregor (Ancient Guardian)
+#### Profile
+- Family Legacy
+  * Descendant of ancient guardian line
+  * Generational caretaker of bloodstone disk
+  * Keeper of magical knowledge
+  * Protector of sacred sites
+  * Watcher for the chosen heir
+- Guardian Role
+  * Bloodstone disk protection
+  * Resource preservation
+  * Knowledge maintenance
+  * Location safeguarding
+  * Heir preparation
+- Core Traits
+  * Deep wisdom
+  * Patient dedication
+  * Strategic foresight
+  * Protective instinct
+  * Teaching ability
+
+#### Character Arc
+1. Watcher Phase
+   * Sign recognition
+   * Heir identification
+   * Initial contact
+   * Resource preparation
+   * Protection setup
+2. Mentor Phase
+   * Knowledge sharing
+   * Basic training
+   * Resource provision
+   * Location guidance
+   * Emergency preparation
+3. Sacrifice Phase
+   * Legacy transfer
+   * Final protection
+   * Knowledge preservation
+   * Time provision
+   * Hope maintenance
+
+#### Resources
+- Protected Knowledge
+  * Ancient spell books
+  * Training manuscripts
+  * Historical records
+  * Power site maps
+  * Sacred scrolls
+- Location Network
+  * Hidden archives
+  * Power nexuses
+  * Scroll repositories
+  * Rune sites
+  * Safe houses
+- Teaching Materials
+  * Basic magic guides
+  * Control exercises
+  * Protection spells
+  * Historical context
+  * Advanced techniques
+
+#### Voice Patterns
+- Communication Style
+  * Measured wisdom
+  * Historical references
+  * Teaching focus
+  * Strategic guidance
+  * Legacy emphasis
+- Knowledge Sharing
+  * Careful revelation
+  * Progressive teaching
+  * Strategic timing
+  * Future preparation
+  * Hope maintenance
+
 ## Impact on Story
-The character dynamics and relationships drive the narrative forward while grounding the magical elements in personal connections and emotional truth. Each character's journey contributes to the larger themes of balance, trust, and hope, while their interactions create the foundation for both the immediate story and future possibilities.
+The character dynamics and relationships drive the narrative forward while grounding the magical elements in personal connections and emotional truth. Each character's journey contributes to the larger themes of balance, trust, and hope, while their interactions create the foundation for both the immediate story and future possibilities. Gregor's role as an ancient guardian adds depth to the magical world's history and provides crucial resources for both current and future challenges.

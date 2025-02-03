@@ -9,26 +9,39 @@ The first part establishes the deep friendship between Elinora and Rowan, introd
 - Establishes Elinora and Rowan's close friendship
 - Introduces their morning coffee routine
 - Shows their natural trust and support
-- Mysterious pendant arrives
+- Mysterious amulet disk arrives
+- First observations of disk patterns:
+  * Intricate circular patterns with fluid-like properties
+  * Shadows that don't match physical engravings
+  * Failed attempts to photograph patterns (blurred/distorted)
+  * Initial dismissal as trick of light
 - First subtle magical signs:
   * Temperature fluctuations
   * Electronic interference
   * Environmental responses
-  * Pendant's initial reactions to Elinora
+  * Disk's initial reactions to Elinora
 
 ### The Investigation (Chapter 2)
-- Initial research into pendant's origins
+- Initial research into disk's origins and patterns:
+  * Academic analysis of pattern symbolism
+  * Partial matches to Celtic knots but with differences
+  * Similarities to astronomical charts with inexplicable variations
+  * Research leading to contradictions and dead ends
+  * Documentation of pattern characteristics
 - Discovery of family connections
 - Growing hints of magical nature:
   * Books falling open to relevant pages
-  * Increased pendant warmth during research
+  * Increased disk warmth during research
   * Strange coincidences leading to discoveries
+  * New patterns becoming visible under temperature changes
 - Deepening relationship dynamics
 - Decision to visit Aunt Margaret
 - First signs of Order surveillance:
-  * Mysterious figures in library
+  * Isabella Ravencroft's initial observation team deployment
+  * Strategic positioning in library
   * Computer "glitches" during research
   * Missing historical records
+  * Careful balance between monitoring and non-interference
 
 ### The Family Connection (Chapter 3)
 - Visit to Aunt Margaret's house
@@ -45,11 +58,18 @@ The first part establishes the deep friendship between Elinora and Rowan, introd
 - Aunt Margaret's subtle warnings about watchers
 
 ### The Awakening (Chapter 4)
-- Pendant pieces united
+- Disk and pendant united
 - First major magical manifestation:
   * Visible energy discharge
-  * Physical transformation of pendant
+  * Physical transformation of disk
+  * Certain patterns beginning to glow faintly
+  * New patterns revealed by temperature fluctuations
+  * Heat-revealed patterns showing different stylistic elements
   * Temporary enhancement of natural forces
+- Documentation of pattern changes:
+  * Photography and sketching of configurations
+  * Each magical incident revealing different patterns
+  * Some patterns appearing only during specific power usage
 - Undeniable supernatural evidence
 - First clear signs of surveillance:
   * Direct observation attempts
@@ -79,11 +99,11 @@ The first part establishes the deep friendship between Elinora and Rowan, introd
   * GPS and radio interference near historical sites
   * Pendant reactions to specific locations
 - Return to city under surveillance:
-  * Coordinated Order monitoring
-  * Multiple surveillance teams
-  * Technical observation methods
-  * Strategic positioning in neighborhood
-  * Electronic interference patterns
+  * Coordinated Order monitoring under Ravencroft's direction
+  * Multiple surveillance teams with strict non-intervention orders
+  * Technical observation methods reflecting Drake's modernization
+  * Strategic positioning in neighborhood following Order protocols
+  * Electronic interference patterns from surveillance equipment
 - Growing awareness of danger:
   * Shadows in wrong places
   * Persistent watchers
@@ -196,10 +216,12 @@ The first part establishes the deep friendship between Elinora and Rowan, introd
   * Other practitioners
   * Ancient knowledge
   * Power systems
-- Introduction of surveillance element:
-  * Order's methods
-  * Modern magical monitoring
-  * Technical/magical hybrid approach
+- Introduction of Order's complex structure:
+  * Ravencroft's methodical, preservation-focused approach
+  * Drake's military modernization influence
+  * Blackthorn's traditional authority presence
+  * Tension between preservation and control
+  * Balance between observation and intervention
 - Transformation of familiar places:
   * Magical energy awareness
   * Hidden supernatural aspects
@@ -232,19 +254,26 @@ The first part establishes the deep friendship between Elinora and Rowan, introd
    - Temperature changes
    - Strange sensations
    - Unexplained phenomena
-   - Object reactions
+   - Initial pattern observations
    - Environmental responses
 
 2. Growing Evidence (Chapters 2-3)
-   - Pendant reactions
-   - Connected incidents
-   - Pattern emergence
+   - Disk pattern analysis
+   - Academic research dead ends
+   - Temperature-reactive patterns
    - Historical links
    - Family connections
 
-3. Undeniable Magic (Chapters 4-5)
-   - Pendant unification
-   - Dream visions
+3. Pattern Documentation (Chapter 4)
+   - Systematic recording of changes
+   - Pattern-power correlations
+   - Configuration variations
+   - Specific trigger observations
+   - Initial pattern categorization
+
+4. Undeniable Magic (Chapters 4-5)
+   - Disk-pendant unification
+   - Pattern illumination
    - Physical manifestations
    - Magical accidents
    - Environmental effects
